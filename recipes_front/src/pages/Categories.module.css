@@ -1,0 +1,7 @@
+.select {
+  color: #000;
+  text-decoration: none;
+  font-weight: 600;
+  cursor: default;
+  pointer-events: none;
+}
