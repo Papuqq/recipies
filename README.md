@@ -5,10 +5,12 @@
 
 - activate the virtual environment
     `python3 -m venv venv`
+  
     `source venv/bin/activate`
 
 - install packages
     `pip install -r requirements.txt`
+  
     `cd recipes`
 
 - run server
@@ -25,6 +27,9 @@ open: http://127.0.0.1:8000/admin/
 ## run front
 - open new terminal
   `cd recipes_front`
+  
   `npm install`
+  
   `npm start`
+  
 
