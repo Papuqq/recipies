@@ -1,0 +1,6 @@
+django == 4.2.7
+djangorestframework == 3.14.0
+markdown == 3.5.1
+django-filter == 23.4
+drf-yasg == 1.21.7
+django-cors-headers == 4.3.1
